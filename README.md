@@ -1,2 +1,1 @@
-# country-capitals
-country-capitals
+country capitals
